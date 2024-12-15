@@ -17,7 +17,7 @@ To run this game, you need:
 3. pip install pygame
 4. python Alien_Game.py  #Run the game with this command
 
-##Future Improvements
+## Future Improvements
 Adding more levels with unique challenges.
 Implementing power-ups and special abilities.
 Introducing multiplayer mode.
