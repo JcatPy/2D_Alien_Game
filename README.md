@@ -13,7 +13,7 @@ To run this game, you need:
 1. Clone this repository:
    ```bash
    git clone https://github.com/JcatPy/2D_Alien_Game.git
-2.cd Alien_Game
+2. cd Alien_Game
 3. pip install pygame
 4. python Alien_Game.py  #Run the game with this command
 
